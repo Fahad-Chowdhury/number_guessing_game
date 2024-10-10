@@ -1,0 +1,3 @@
+Simple implementaion of the number guessing game.
+The user has to guess the number choosen by the computer. It has two modes 'easy' and 'hard'. In the hard mode user gets 5 chances and in easy mode the user gets 10 chances to guess the number. It displays 'Too high' if the guess is higher than the choosen number and it displays 'Too low' if the guess is lower than the choosen number.
+The user wins if he is able to guess the number within the given chances.
